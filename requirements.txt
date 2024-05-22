@@ -12,6 +12,7 @@ python-dateutil
 pytz
 scipy
 six
+sklearn
 threadpoolctl
 Werkzeug
 zipp
